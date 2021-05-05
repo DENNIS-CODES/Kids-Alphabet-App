@@ -17,7 +17,6 @@ public class Alphabet extends Activity implements View.OnClickListener {
         c=(Button)findViewById(R.id.c);
         d=(Button)findViewById(R.id.d);
         e=(Button)findViewById(R.id.e);
-        a=(Button)findViewById(R.id.a);
         f=(Button)findViewById(R.id.f);
         g=(Button)findViewById(R.id.g);
         h=(Button)findViewById(R.id.h);
